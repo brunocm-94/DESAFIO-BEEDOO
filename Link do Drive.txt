@@ -1,0 +1,2 @@
+Planilha com cenários de teste e casos de teste: https://docs.google.com/spreadsheets/d/1iu4oFGp5YhHMgFwVemg69UzHPWzmN2SYFMO-qOblySI/edit?usp=sharing
+Pasta com evidências dos testes: https://drive.google.com/drive/folders/1srT4JK0-lhtKOR7faE6-hA61I4tAtZFi?usp=sharing

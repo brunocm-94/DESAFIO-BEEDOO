@@ -4,11 +4,12 @@ o ponto de vista de um usuário do sistema e os botões aos quais ele tem acesso
 fluxo de telas pelas quais ele pode passar. Também foi considerado a implementação e estado atual do sistema.
 
 # User Story
-
 **Como**
 	Usuário do módulo de curso do Beedoo
+
 **Eu quero**
 	Gerenciar os cursos do módulo
+
 **Para**
 	Poder visualizar, cadastrar e excluir cursos do sistema
 	
@@ -65,5 +66,3 @@ fluxo de telas pelas quais ele pode passar. Também foi considerado a implementa
 		**Quando**: eu clicar no botão "Cadastrar Curso" abaixo dos formulários;
 		**Então**: o sistema verificará que as regras dos campos não foram cumpridas;
 			**E**: um modal com o texto "Erro ao cadastrar curso!" será exibido no topo da tela.
-	
-	

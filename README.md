@@ -1,7 +1,7 @@
 # Como foi decidido a User Story <h1>
->A User Story foi criada de acordo com o sistema disponibilizado no link https://creative-sherbet-a51eac.netlify.app/, levando em conta 
->o ponto de vista de um usuário do sistema e os botões aos quais ele tem acesso, bem como os formulãrios que ele pode preencher, e o 
->fluxo de telas pelas quais ele pode passar. Também foi considerado a implementação e estado atual do sistema.
+A User Story foi criada de acordo com o sistema disponibilizado no link https://creative-sherbet-a51eac.netlify.app/, levando em conta 
+o ponto de vista de um usuário do sistema e os botões aos quais ele tem acesso, bem como os formulãrios que ele pode preencher, e o 
+fluxo de telas pelas quais ele pode passar. Também foi considerado a implementação e estado atual do sistema.
 
 # User Story <h1>
 

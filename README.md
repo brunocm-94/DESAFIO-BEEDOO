@@ -64,7 +64,7 @@ fluxo de telas pelas quais ele pode passar. Também foi considerado a implementa
 	Número de vagas (caixa de texto aceitando apenas números), Tipo de curso (lista: Presencial, Online), Endereço (caixa de texto,
 	vísivel se o Tipo de curso for Presencial) e Link de inscrição (caixa de texto, vísivel se o Tipo de curso for Online)
 	
-	**E**: será exibido o botão "Cadastrar Curso" abaixo dos formulários.
+**E**: será exibido o botão "Cadastrar Curso" abaixo dos formulários.
 	
 ## Cenário 5: cadastrar curso com sucesso
 **Dado**: que eu possua acesso ao módulo de curso do Beedoo;
